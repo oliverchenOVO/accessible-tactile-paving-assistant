@@ -4,6 +4,12 @@
 
 > 此 App 是教學原型，不是醫療器材、導航設備或安全認證產品。辨識錯誤可能導致危險，不可依賴它進行實際行走決策。
 
+## 實機測試影片
+
+以下影片展示 2026 年 5 月 25 日的 Android 實機辨識測試。GitHub 會直接在 README 中顯示影片播放器。
+
+https://github.com/user-attachments/assets/0abb1811-7b7b-4a1f-8d32-2ecb7f2f701f
+
 ## 功能
 
 - Kotlin Android App 與 CameraX 即時影像分析。
